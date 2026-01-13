@@ -57,6 +57,8 @@ This package introduces an amplitude-based method that applies Spatially Variant
 
 ## License
 
+This project is licensed under the [MIT LICENSE](https://opensource.org/license/mit).
+
 ## Associates
 #### - Leadership: Department for Earth Observation, Friedrich Schiller University, Jena ([JEOS JENA](https://www.chemgeo.uni-jena.de/29150/fernerkundung))
 
