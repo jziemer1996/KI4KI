@@ -24,7 +24,7 @@ For more information about the project, please also refer to:
 
 ### Results
 
-<img src="imgs/KI4KI.jpg" width="600" alt="Image of KI4KI"> 
+<img src="imgs/Schaubild_KI4KI.jpg" width="600" alt="Image of Schaubild_KI4KI"> 
 
 #### 1) Feasibility Assessment of MT-InSAR and GMS for Dam Monitoring
 Unterschiedliche Talsperren, CR-Index, mein Paper + Janniks GMS Evaluation
