@@ -51,7 +51,7 @@ The following software packages were developed within KI4KI or are associated wi
 #### 2) Snap2StaMPSv2
 #### 3) Dam2Predict
 #### 4) SVA-with-snappy
-This package introduces an amplitude-based method that applies Spatially Variant Apodization (SVA) to reduce sidelobes in Synthetic Aperture Radar (SAR) data.
+This package introduces an amplitude-based method that applies Spatially Variant Apodization (SVA) to reduce sidelobes in Synthetic Aperture Radar (SAR) data.  
 Link to the package: https://github.com/natasnat/SVA-with-snappy
 
 ### License
