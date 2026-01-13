@@ -3,12 +3,9 @@
 
 This repository summarizes the main findings and reserach contributions of the KI4KI project between the Friedrich Schiller University Jena and the Ruhrverband. KI4KI was funded between 2022 and 2025 as a BMWK (Federal Ministry for Economic Affairs and Climate Action) joint project and delt with the development of AI-based approaches in multi-temporal interferometric aperture radar (MT-InSAR) time series for the monitoring of dam deformations in Germany. 
 
-**Align center:**
 <p align="center" width="100%">
     <img src="imgs/KI4KI.jpg" width="600" alt="Image of KI4KI"> 
 </p>
-
-<img src="imgs/KI4KI.jpg" width="600" alt="Image of KI4KI"> 
 
 ### Table of Contents
 
@@ -29,7 +26,9 @@ For more information about the project, please also refer to:
 
 ### Structure
 
-<img src="imgs/Schaubild_KI4KI.jpg" width="600" alt="Image of Schaubild_KI4KI"> 
+<p align="center" width="100%">
+    <img src="imgs/Schaubild_KI4KI.jpg" width="600" alt="Image of Schaubild_KI4KI"> 
+</p>
 
 #### 1) [Feasibility Assessment](results/1_Feasibility_Assessment/README.md)
 We first assessed the feasibility of MT-InSAR data for operational dam monitoring by comparing deformation time series to in situ data. Freely available MT-InSAR data from the German Ground Motion Service (BBD) were used as analysis-ready datasets (ARD).
