@@ -27,6 +27,7 @@ For more information about the project, please also refer to:
 <img src="imgs/Schaubild_KI4KI.jpg" width="600" alt="Image of Schaubild_KI4KI"> 
 
 #### 1) [Feasibility Assessment](results/1_Feasibility_Assessment/README.md)
+We first assessed the feasibility of MT-InSAR data for operational dam monitoring by comparing deformation time series to in situ data. Freely available MT-InSAR data from the German Ground Motion Service (BBD) were used as analysis-ready datasets (ARD).
 
 ### Programming
 
@@ -37,7 +38,7 @@ Nataschas Package
 ### License
 
 ### Associates
-- Leadership: Department of Earth Observation, Friedrich Schiller University, Jena ([JEOS JENA](https://www.chemgeo.uni-jena.de/29150/fernerkundung))
+#### - Leadership: Department of Earth Observation, Friedrich Schiller University, Jena ([JEOS JENA](https://www.chemgeo.uni-jena.de/29150/fernerkundung))
 
 - Computer Vision Group Jena, Friedrich Schiller University, Jena ([CVG JENA](https://inf-cv.uni-jena.de/))
 - German Federal Institute for Geosciences and Natural Resources (BGR), Hannover
