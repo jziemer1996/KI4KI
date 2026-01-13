@@ -32,22 +32,27 @@ For more information about the project, please also refer to:
 </p>
 
 #### 1) [Feasibility Assessment](results/1_Feasibility_Assessment/README.md)
-We first assessed the feasibility of MT-InSAR data for operational dam monitoring by comparing deformation time series to in situ data. Freely available MT-InSAR data from the German Ground Motion Service (BBD) were used as analysis-ready datasets (ARD).
+We first assessed the feasibility of MT-InSAR data for operational dam monitoring by comparing the satellite-based deformations to in situ time series. For this purpose, freely available MT-InSAR data from the German Ground Motion Service (BBD) were used as analysis-ready datasets (ARD).
 #### 2) [Sensor Fusion](results/2_Sensor_Fusion/README.md)
-We first assessed the feasibility of MT-InSAR data for operational dam monitoring by comparing deformation time series to in situ data. Freely available MT-InSAR data from the German Ground Motion Service (BBD) were used as analysis-ready datasets (ARD).
+Second, we combined SAR data from different sensors (Sentinel-1 C-band and TerraSAR-X X-band) to leverage the high spatial resolution of TSX with the wide coverage of S-1. Based on the combined MT-InSAR time series, we then identified the drivers for dam deformation using in situ pendulum data for comparison. 
 #### 3) [Deformation Prediciton](results/3_Deformation_Prediction/README.md)
-We first assessed the feasibility of MT-InSAR data for operational dam monitoring by comparing deformation time series to in situ data. Freely available MT-InSAR data from the German Ground Motion Service (BBD) were used as analysis-ready datasets (ARD).
+Further, a strategy was developed to not only analyze recent deformation patterns but also to predict the future deformation behavior of dams. Traditional methods (i.e., linear regression models) were therefore enhanced by employing data-driven techniques and integrating S-1 PS time series alongside in situ data.
 #### 4) [ECR Analysis](results/4_ECR_Analysis/README.md)
-We first assessed the feasibility of MT-InSAR data for operational dam monitoring by comparing deformation time series to in situ data. Freely available MT-InSAR data from the German Ground Motion Service (BBD) were used as analysis-ready datasets (ARD).
+To enable the monitoring of dams with poor conditions for a PS-based monitoring strategy, electronic corner reflectors (ECRs) were installed at various dams. Additionally, a methodology was developed to minimize strong side lobes in the ECR-PS time series.
 #### 5) [Application Programming Interface](results/5_API/README.md)
-We first assessed the feasibility of MT-InSAR data for operational dam monitoring by comparing deformation time series to in situ data. Freely available MT-InSAR data from the German Ground Motion Service (BBD) were used as analysis-ready datasets (ARD).
+Finally, to enable dam operators to access the PS time series, an API was developed that includes both the feasibility assessments for a PS-based monitoring strategy and the processed ECR time series with a length of up to two years.
 
 
 ### Programming
+The following software packages were developed within KI4KI or are associated with version updates of existing packages:
 
-TSX2StaMPS/snap2stamps
-Gideons prediction tool
-Nataschas Package
+#### 1) TSX2StaMPS
+
+#### 2) Snap2StaMPSv2
+#### 3) Dam2Predict
+#### 4) SVA-with-snappy
+This package introduces an amplitude-based method that applies Spatially Variant Apodization (SVA) to reduce sidelobes in Synthetic Aperture Radar (SAR) data.
+Link to the package: https://github.com/natasnat/SVA-with-snappy
 
 ### License
 
