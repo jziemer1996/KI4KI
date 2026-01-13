@@ -48,16 +48,12 @@ The following software packages were developed as part of KI4KI or are associate
 
 #### 1) [TSX2StaMPS](https://github.com/jziemer1996/TSX2StaMPS)
 This software allows for the semi-automatic generation of single-master interferogram stacks using high-resolution TSX Stripmap data in ESA's SNAP software. The output files can be ingested into StaMPS for PSI processing.  
-Link to the package: [TSX2StaMPS](https://github.com/jziemer1996/TSX2StaMPS)
-#### 2) Snap2StaMPSv2
+#### 2) [Snap2StaMPSv2](https://github.com/mdelgadoblasco/snap2stamps/tree/v2.0.1)
 Snap2StaMPSv2 represents a further development of the original Snap2StaMPS, extending its functionality to include TSX Stripmap data. The updated version therefore presents both TSX2StaMPS and the original version of Snap2Stamps as a single new package to handle the preprocessing of either TSX or S-1 data for ingestion into StaMPS.  
-Link to the package: [Snap2StaMPSv2](https://github.com/mdelgadoblasco/snap2stamps/tree/v2.0.1)
-#### 3) Dam2Predict
+#### 3) [Dam2Predict](https://github.com/Gideon-Stein/KI4KI/tree/main)
 This repository provides tools for forecasting dam deformations based on environmental drivers using PSI data and pendulum time series.  
-Link to the package: [Dam2Predict](https://github.com/Gideon-Stein/KI4KI/tree/main)
-#### 4) SVA-with-snappy
+#### 4) [SVA-with-Snappy](https://github.com/natasnat/SVA-with-snappy)
 This package introduces an amplitude-based method that applies Spatially Variant Apodization (SVA) to reduce sidelobes in Synthetic Aperture Radar (SAR) data.  
-Link to the package: [SVAwithSnappy](https://github.com/natasnat/SVA-with-snappy)
 
 ## License
 
