@@ -6,7 +6,7 @@ This repository summarizes the main findings and reserach contributions of the K
 ### Table of Contents
 
 - [Background](#background)
-- [Research Issues](#research_issues)
+- [Results](#results)
 - [Programming](#programming)
 - [License](#license)
 - [Associates](#associates)
