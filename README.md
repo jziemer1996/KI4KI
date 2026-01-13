@@ -60,6 +60,7 @@ To enable the monitoring of dams with poor conditions for a PS-based monitoring 
 #### 5) [Application Programming Interface](results/5_API/README.md)
 Finally, to enable dam operators to access the PS time series, an API was developed that includes both the feasibility assessments for a PS-based monitoring strategy and the processed ECR time series with a length of up to two years.
 ##### Related Publications:
+- An Integrated Monitoring Concept for Dam Infrastructure: Operational PSI Service and Application of Electronic Corner Reflectors (ECR) (submitted)
 
 
 ## Programming
