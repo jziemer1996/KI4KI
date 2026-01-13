@@ -8,7 +8,7 @@ This repository summarizes the main findings and reserach contributions of the K
 ### Table of Contents
 
 - [Background](#background)
-- [Results](#results)
+- [Structure](#structure)
 - [Programming](#programming)
 - [License](#license)
 - [Associates](#associates)
@@ -22,16 +22,9 @@ For more information about the project, please also refer to:
 - [KI4KI @FSU Jena](https://www.chemgeo.uni-jena.de/30371/infrastrukturueberwachung-mit-radarinterferometrie)
 - [KI4KI @Ruhrverband](https://ruhrverband.de/en/sustainability/research-projects/current-projects/ki4ki)
 
-### Results
+### Structure
 
 <img src="imgs/Schaubild_KI4KI.jpg" width="600" alt="Image of Schaubild_KI4KI"> 
-
-#### 1) Feasibility Assessment of MT-InSAR and GMS for Dam Monitoring
-Unterschiedliche Talsperren, CR-Index, mein Paper + Janniks GMS Evaluation
-#### 2) Sensor Fusion of Different SAR Data and Identification of Deformation Drivers
-#### 3) Prediction of Dam Deformations using Advanced Feature Engineering
-#### 4) Using Electronic Corner Reflectors (ECR) for Dam Monitoring
-#### 5) Application Programming Interface
 
 ### Programming
 
