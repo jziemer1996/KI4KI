@@ -47,14 +47,15 @@ Finally, to enable dam operators to access the PS time series, an API was develo
 The following software packages were developed within KI4KI or are associated with version updates of existing packages:
 
 #### 1) TSX2StaMPS
-
+This software allows for the semi-automatic generation of single-master interferogram stacks using high-resolution TSX Stripmap data in ESA's SNAP software. The output files can be ingested to StaMPS for PSI processing.  
+Link to the package: [TSX2StaMPS](https://github.com/jziemer1996/TSX2StaMPS)
 #### 2) Snap2StaMPSv2
 #### 3) Dam2Predict
 This repository provides tools for forecasting dam deformations based on environmental drivers using PSI data and pendulum time series.  
-Link to the package: https://github.com/Gideon-Stein/KI4KI/blob/main/README.md
+Link to the package: [Dam2Predict](https://github.com/Gideon-Stein/KI4KI/tree/main)
 #### 4) SVA-with-snappy
 This package introduces an amplitude-based method that applies Spatially Variant Apodization (SVA) to reduce sidelobes in Synthetic Aperture Radar (SAR) data.  
-Link to the package: https://github.com/natasnat/SVA-with-snappy
+Link to the package: [SVAwithSnappy](https://github.com/natasnat/SVA-with-snappy)
 
 ## License
 
