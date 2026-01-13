@@ -6,7 +6,7 @@ This repository summarizes the main findings and reserach contributions of the K
 ### Table of Contents
 
 - [Background](#background)
-- [Structure](#structure)
+- [Research Issues](#research)
 - [Programming](#programming)
 - [License](#license)
 - [Associates](#associates)
@@ -24,7 +24,7 @@ For more information about the project, please also refer to:
 - [KI4KI @FSU Jena](https://www.chemgeo.uni-jena.de/30371/infrastrukturueberwachung-mit-radarinterferometrie)
 - [KI4KI @Ruhrverband](https://ruhrverband.de/en/sustainability/research-projects/current-projects/ki4ki)
 
-### Structure
+### Research Issues
 
 #### 1) Feasibility Assessment of MT-InSAR and GMS for Dam Monitoring
 Unterschiedliche Talsperren, CR-Index, mein Paper + Janniks GMS Evaluation
