@@ -26,7 +26,7 @@ For more information about the project, please also refer to:
 
 <img src="imgs/Schaubild_KI4KI.jpg" width="600" alt="Image of Schaubild_KI4KI"> 
 
-#### 1) [1_Feasibility Assessment](results/1_feasibility_assessment)
+#### 1) [1_Feasibility Assessment](results/1_Feasibility_Assessment/README.md)
 
 ### Programming
 
