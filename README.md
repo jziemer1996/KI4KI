@@ -50,6 +50,8 @@ The following software packages were developed within KI4KI or are associated wi
 
 #### 2) Snap2StaMPSv2
 #### 3) Dam2Predict
+This repository provides tools for forecasting dam deformations based on environmental drivers using PSI data and pendulum time series.  
+Link to the package: https://github.com/Gideon-Stein/KI4KI/blob/main/README.md
 #### 4) SVA-with-snappy
 This package introduces an amplitude-based method that applies Spatially Variant Apodization (SVA) to reduce sidelobes in Synthetic Aperture Radar (SAR) data.  
 Link to the package: https://github.com/natasnat/SVA-with-snappy
