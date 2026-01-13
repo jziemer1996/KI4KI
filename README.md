@@ -38,7 +38,7 @@ Nataschas Package
 ### License
 
 ### Associates
-#### - Leadership: Department of Earth Observation, Friedrich Schiller University, Jena ([JEOS JENA](https://www.chemgeo.uni-jena.de/29150/fernerkundung))
+#### - Leadership: Department for Earth Observation, Friedrich Schiller University, Jena ([JEOS JENA](https://www.chemgeo.uni-jena.de/29150/fernerkundung))
 
 - Computer Vision Group Jena, Friedrich Schiller University, Jena ([CVG JENA](https://inf-cv.uni-jena.de/))
 - German Federal Institute for Geosciences and Natural Resources (BGR), Hannover
