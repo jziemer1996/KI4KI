@@ -37,7 +37,7 @@ We first assessed the feasibility of MT-InSAR data for operational dam monitorin
 Second, we combined SAR data from different sensors (Sentinel-1 C-band and TerraSAR-X X-band) to leverage the high spatial resolution of TSX with the wide coverage of S-1. Based on the combined MT-InSAR time series, we then identified the drivers for dam deformation using in situ pendulum data for comparison. 
 #### 3) [Deformation Prediciton](results/3_Deformation_Prediction/README.md)
 Further, a strategy was developed to not only analyze recent deformation patterns but also to predict the future deformation behavior of dams. Traditional methods (i.e., linear regression models) were therefore enhanced by employing data-driven techniques and integrating S-1 PS time series alongside in situ data.
-#### 4) [ECR Analysis](results/4_ECR_Analysis/README.md)
+#### 4) [ECR Analysis & Sidelobe Suppression](results/4_ECR_Analysis/README.md)
 To enable the monitoring of dams with poor conditions for a PS-based monitoring strategy, electronic corner reflectors (ECRs) were installed at various dams. Additionally, a methodology was developed to minimize strong side lobes in the ECR-PS time series.
 #### 5) [Application Programming Interface](results/5_API/README.md)
 Finally, to enable dam operators to access the PS time series, an API was developed that includes both the feasibility assessments for a PS-based monitoring strategy and the processed ECR time series with a length of up to two years.
