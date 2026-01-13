@@ -8,7 +8,7 @@ This repository summarizes the main findings and reserach contributions of the K
     <img src="imgs/KI4KI.jpg" width="600" alt="Image of KI4KI"> 
 </p>
 
-### Table of Contents
+## Table of Contents
 
 - [Background](#background)
 - [Structure](#structure)
@@ -17,7 +17,7 @@ This repository summarizes the main findings and reserach contributions of the K
 - [Associates](#associates)
 - [Acknowledgements](#acknowledgements)
 
-### Background
+## Background
 
 Dams are critical infrastructure with high socio-economic and environmental importance, whose structural integrity must be ensured over long operational lifetimes. Continuous monitoring is essential to detect slow, progressive deformations that may indicate material fatigue, foundation instability, or changing loading conditions. In the context of climate change, area-wide monitoring of critical infrastructure is becoming increasingly important, as more frequent and intense extreme weather events can impose additional hydraulic and mechanical stresses on dam structures and their foundations. MT-InSAR provides a unique capability to measure millimeter-scale surface deformations over large areas with high spatial density and long temporal coverage, complementing conventional in-situ instrumentation. Therefore, KI4KI focused on the analysis and prediction of dam deformations in Germany using satellite-based methods such as the Persistent Scatterer Interferometry (PSI). This repository provides the general findings of our research.
 
@@ -25,7 +25,7 @@ For more information about the project, please also refer to:
 - [KI4KI @FSU Jena](https://www.chemgeo.uni-jena.de/30371/infrastrukturueberwachung-mit-radarinterferometrie)
 - [KI4KI @Ruhrverband](https://ruhrverband.de/en/sustainability/research-projects/current-projects/ki4ki)
 
-### Structure
+## Structure
 
 <p align="center" width="100%">
     <img src="imgs/Schaubild_KI4KI.jpg" width="600" alt="Image of Schaubild_KI4KI"> 
@@ -43,7 +43,7 @@ To enable the monitoring of dams with poor conditions for a PS-based monitoring 
 Finally, to enable dam operators to access the PS time series, an API was developed that includes both the feasibility assessments for a PS-based monitoring strategy and the processed ECR time series with a length of up to two years.
 
 
-### Programming
+## Programming
 The following software packages were developed within KI4KI or are associated with version updates of existing packages:
 
 #### 1) TSX2StaMPS
@@ -56,9 +56,9 @@ Link to the package: https://github.com/Gideon-Stein/KI4KI/blob/main/README.md
 This package introduces an amplitude-based method that applies Spatially Variant Apodization (SVA) to reduce sidelobes in Synthetic Aperture Radar (SAR) data.  
 Link to the package: https://github.com/natasnat/SVA-with-snappy
 
-### License
+## License
 
-### Associates
+## Associates
 #### - Leadership: Department for Earth Observation, Friedrich Schiller University, Jena ([JEOS JENA](https://www.chemgeo.uni-jena.de/29150/fernerkundung))
 
 - Computer Vision Group Jena, Friedrich Schiller University, Jena ([CVG JENA](https://inf-cv.uni-jena.de/))
