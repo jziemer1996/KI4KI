@@ -47,9 +47,11 @@ Finally, to enable dam operators to access the PS time series, an API was develo
 The following software packages were developed within KI4KI or are associated with version updates of existing packages:
 
 #### 1) TSX2StaMPS
-This software allows for the semi-automatic generation of single-master interferogram stacks using high-resolution TSX Stripmap data in ESA's SNAP software. The output files can be ingested to StaMPS for PSI processing.  
+This software allows for the semi-automatic generation of single-master interferogram stacks using high-resolution TSX Stripmap data in ESA's SNAP software. The output files can be ingested into StaMPS for PSI processing.  
 Link to the package: [TSX2StaMPS](https://github.com/jziemer1996/TSX2StaMPS)
 #### 2) Snap2StaMPSv2
+Snap2StaMPSv2 represents a further development of the original Snap2StaMPS, extending its functionality to include TSX Stripmap data. The updated version therefore presents both TSX2StaMPS and the original version of Snap2Stamps as a single new package to handle the preprocessing of either TSX or S-1 data for ingestion into StaMPS.  
+Link to the package: [Snap2StaMPSv2](https://github.com/mdelgadoblasco/snap2stamps/tree/v2.0.1)
 #### 3) Dam2Predict
 This repository provides tools for forecasting dam deformations based on environmental drivers using PSI data and pendulum time series.  
 Link to the package: [Dam2Predict](https://github.com/Gideon-Stein/KI4KI/tree/main)
