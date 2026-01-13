@@ -44,7 +44,7 @@ Finally, to enable dam operators to access the PS time series, an API was develo
 
 
 ## Programming
-The following software packages were developed within KI4KI or are associated with version updates of existing packages:
+The following software packages were developed as part of KI4KI or are associated with version updates of existing packages:
 
 #### 1) TSX2StaMPS
 This software allows for the semi-automatic generation of single-master interferogram stacks using high-resolution TSX Stripmap data in ESA's SNAP software. The output files can be ingested into StaMPS for PSI processing.  
