@@ -17,8 +17,8 @@ This repository summarizes the main findings and reserach contributions of the K
 Dams are critical infrastructure with high socio-economic and environmental importance, whose structural integrity must be ensured over long operational lifetimes. Continuous monitoring is essential to detect slow, progressive deformations that may indicate material fatigue, foundation instability, or changing loading conditions. In the context of climate change, area-wide monitoring of critical infrastructure is becoming increasingly important, as more frequent and intense extreme weather events can impose additional hydraulic and mechanical stresses on dam structures and their foundations. MT-InSAR provides a unique capability to measure millimeter-scale surface deformations over large areas with high spatial density and long temporal coverage, complementing conventional in-situ instrumentation. Therefore, KI4KI focused on the analysis and prediction of dam deformations in Germany using satellite-based methods such as the Persistent Scatterer Interferometry (PSI). This repository provides the general findings of our research.
 
 
+<img src="imgs/KI4KI.jpg" width="600" alt="Image of KI4KI"> 
 
-<img src="imgs/KI4KI.jpg" width="600" align="left" alt="Image of KI4KI"> 
 
 For more information about the project, please also refer to:
 - [KI4KI @FSU Jena](https://www.chemgeo.uni-jena.de/30371/infrastrukturueberwachung-mit-radarinterferometrie)
