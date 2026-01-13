@@ -26,12 +26,12 @@ For more information about the project, please also refer to:
 
 ### Structure
 
-# 1) Feasibility Assessment of MT-InSAR and GMS for Dam Monitoring
+#### 1) Feasibility Assessment of MT-InSAR and GMS for Dam Monitoring
 Unterschiedliche Talsperren, CR-Index, mein Paper + Janniks GMS Evaluation
-# 2) Sensor Fusion of Different SAR Data and Identification of Deformation Drivers
-# 3) Prediction of Dam Deformations using Advanced Feature Engineering
-# 4) Using Electronic Corner Reflectors (ECR) for Dam Monitoring
-# 5) Application Programming Interface
+#### 2) Sensor Fusion of Different SAR Data and Identification of Deformation Drivers
+#### 3) Prediction of Dam Deformations using Advanced Feature Engineering
+#### 4) Using Electronic Corner Reflectors (ECR) for Dam Monitoring
+#### 5) Application Programming Interface
 
 ### Programming
 
