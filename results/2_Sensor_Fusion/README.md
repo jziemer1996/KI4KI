@@ -5,3 +5,5 @@ This part of our work introduced a spaceborne multi-sensor approach for monitori
 <p align="center" width="100%">
     <img src="../../imgs/Sensor_Fusion.jpg" width="600" alt="Sensor Fusion"> 
 </p>
+
+(c) Ziemer, J., Jänichen, J., Stein, G., Liedel, N., Wicker, C., Last, K., ... & Dubois, C. (2025). Identifying deformation drivers in dam segments using combined X-and C-band PS time series. Remote Sensing, 17(15), 2629.
