@@ -10,4 +10,4 @@ Across multiple sites and observation periods, BBD data proved particularly valu
     <img src="../../imgs/Feasibility_Assessment.jpg" width="600" alt="Feasibility Assessment"> 
 </p>
 
-© [Identifying Deformation Drivers in Dam Segments Using Combined X-and C-Band PS Time Series](https://www.mdpi.com/2072-4292/17/15/2629)
+© [Assessing the Feasibility of Persistent Scatterer Data for Operational Dam Monitoring in Germany: A Case Study](https://www.mdpi.com/2072-4292/17/7/1202)
