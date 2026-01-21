@@ -6,5 +6,4 @@ Our analyses demonstrate that integrating Persistent Scatterer Interferometry (P
     <img src="../../imgs/Deformation_Prediction.jpg" width="600" alt="Deformation Prediction"> 
 </p>
 
-© [Data-Driven Prediction of Large Infrastructure Movements Through Persistent Scatterer Time Series Modeling](https://ieeexplore.ieee.org/document/10642253)
-
+© [Enhancing the Prediction of Dam Deformations: A Novel Data-Driven Approach](https://www.mdpi.com/2072-4292/17/6/1026)
