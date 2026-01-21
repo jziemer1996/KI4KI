@@ -1,3 +1,12 @@
 #### Prediction of Dam Deformations using Advanced Feature Engineering
 
+This part of our work introduced a spaceborne multi-sensor approach for monitoring a gravity dam in Germany using PS datasets from different wavelengths. Applying [TSX2StaMPS](https://github.com/jziemer1996/TSX2StaMPS) as part of the updated [Snap2StaMPSv2](https://github.com/mdelgadoblasco/snap2stamps/tree/v2.0.1) package, the S-1 data were integrated with high-resolution TSX data to enhance the spatial and temporal resolution of the time series. Our analyses demonstrated that combining TerraSAR-X and Sentinel-1 PS time series substantially increases the number of detected PS points. The temporal resolution increased **from 151 TSX scenes to 283 (+87%)** utilizing the combined PS time series in dam segments where PS points of both sensors were found. This corresponds to an average temporal resolution of **six days** with a minimum time interval of one day and a **maximum of 11 days**. The combined datasets yields a fair agreement with in situ pendulum measurements (**R² = 0.5**, **MAE = 2.3 mm**).  
+
+The integrated time series facilitated the identification of temperature as the dominant long-term driver of periodic deformations. Following the filling of the reservoir, the variance in the PS data increased **from 0.9 mm to 3.9 mm in RMSE**, suggesting that water level changes are more responsible for short-term variations in the SAR signal. Upon full impoundment, the mean deformation amplitude decreased by approximately **1.7 mm toward the downstream side** of the dam, which was attributed to the higher water pressure. The last five meters of water level rise resulted in higher feature importance due to interaction effects with temperature. Overall, the results confirm that multi-sensor MT-InSAR data fusion enhances deformation monitoring and supports the reliable attribution of observed deformation patterns to environmental forcing mechanisms, especially in cases where conventional in situ instrumentation is sparse or absent.
+
+<p align="center" width="100%">
+    <img src="../../imgs/Sensor_Fusion.jpg" width="600" alt="Sensor Fusion"> 
+</p>
+
+© [Identifying Deformation Drivers in Dam Segments Using Combined X-and C-Band PS Time Series](https://www.mdpi.com/2072-4292/17/15/2629)
 
