@@ -10,4 +10,4 @@ However, the strong backscattering of ECRs can introduce strong sidelobe artifac
     <img src="../../imgs/ECR_Analysis.jpg" width="600" alt="ECR Analysis"> 
 </p>
 
-© [Identifying Deformation Drivers in Dam Segments Using Combined X-and C-Band PS Time Series](https://www.mdpi.com/2072-4292/17/15/2629)
+© [Towards Operational Dam Monitoring with PS-InSAR and Electronic Corner Reflectors](https://www.mdpi.com/2072-4292/17/7/1318)
