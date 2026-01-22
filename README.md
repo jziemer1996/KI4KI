@@ -54,7 +54,7 @@ To enable the monitoring of dams with poor conditions for a PS-based monitoring 
 ##### Related Publications:
 - [Towards Operational Dam Monitoring with PS-InSAR and Electronic Corner Reflectors](https://www.mdpi.com/2072-4292/17/7/1318)
 - [Enhancing Dam Monitoring: Utilizing the CR-Index for Electronic Corner Reflector (ECR) Site Selection and PSI Analysis](https://ieeexplore.ieee.org/document/10640447)
-- [First Assessment of Electronic Corner Reflectors for Dam Monitoring in Germany](https://lps25.esa.int/lps25-presentations/Poster/First%20Assessment%20of%20Electronic%20Corner%20Reflectors%20for%20Dam%20Monitoring%20in%20Germany.pdf)
+- [First Assessment of Electronic Corner Reflectors for Dam Monitoring in Germany](https://lps25.esa.int/lps25-presentations/poster/First%20Assessment%20of%20Electronic%20Corner%20Reflectors%20for%20Dam%20Monitoring%20in%20Germany.pdf)
 - [Novel Amplitude-based Approach for Reducing Sidelobes in Persistent Scatterer Interferometry Processing using Spatially Variant Apodization](https://www.mdpi.com/1424-8220/26/1/204)
   
 #### 5) [Application Programming Interface](results/5_API/README.md)
