@@ -89,4 +89,4 @@ This project is licensed under the [MIT LICENSE](https://opensource.org/license/
 - Thüringer Fernwasserversorgung (TFW), Erfurt
 
 ## Acknowledgements
-We acknowledge financial support through DLR with funds provided by the Federal Ministry for Economic Affairs and Climate Action (BMWK) due to an enactment of the German Bundestag under Grant No. 50EE2202A.
+We acknowledge financial support through DLR with funds provided by the Federal Ministry for Economic Affairs and Climate Action (BMWK) due to an enactment of the German Bundestag under Grant No. **50EE2202A**.
