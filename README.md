@@ -24,6 +24,7 @@ Dams are critical infrastructure with high socio-economic and environmental impo
 For more information about the project, please also refer to:
 - [KI4KI @FSU Jena](https://www.chemgeo.uni-jena.de/30371/infrastrukturueberwachung-mit-radarinterferometrie)
 - [KI4KI @Ruhrverband](https://ruhrverband.de/en/sustainability/research-projects/current-projects/ki4ki)
+- [KI4KI @EOlab](https://eo-lab.org/de/projects/)
 
 ## Structure
 
