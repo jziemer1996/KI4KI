@@ -7,7 +7,7 @@ The presented studies demonstrate that Electronic Corner Reflectors (ECRs) subst
 However, the strong backscattering of ECRs can introduce strong sidelobe artifacts in SAR imagery, which may falsify nearby pixels and degrade PS detection and time-series quality. This motivates the need for sidelobe minimization. A novel amplitude-based Spatially Variant Apodization (SVA) approach [SVA-with-Snappy](https://github.com/natasnat/SVA-with-snappy) was developed at the University of Jena to mitigate sidelobe artifacts caused by strong ECR responses in Sentinel-1 data. Applied to the Sorpe Dam in Germany, the method reduced the number of sidelobe-affected PS by **39.26%**, while preserving the original interferometric phase and deformation estimates. The deformation time series remained highly consistent, with a Root Mean Square Error (RMSE) of approximately **0.38 mm**, demonstrating that sidelobe suppression can be achieved without compromising phase integrity. Together, these results confirm that ECR-supported PS time series, combined with dedicated sidelobe suppression strategies, significantly enhances MT-InSAR applicability for dam monitoring, provided that ECR deployment and data processing are carefully evaluated in advance.
 
 <p align="center" width="100%">
-    <img src="../../imgs/ECR_Analysis.jpg" width="600" alt="ECR Analysis"> 
+    <img src="../../imgs/ECR_Analysis.jpg" width="800" alt="ECR Analysis"> 
 </p>
 
 © [Towards Operational Dam Monitoring with PS-InSAR and Electronic Corner Reflectors](https://www.mdpi.com/2072-4292/17/7/1318)
