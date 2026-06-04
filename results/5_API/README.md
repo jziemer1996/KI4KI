@@ -1,6 +1,15 @@
 #### Application Programming Interface for Dam Monitoring
 
-Long-term stability of dam infrastructure is crucial for flood protection, water resource management, and drinking water supply. In many regions the increasing impact of climate change and structural aging necessitates advanced monitoring approaches for embankment and gravity dams. PSI has emerged as a valuable technique for detecting surface deformations with millimeter precision. This study presents a comprehensive monitoring concept that combines satellite-based PSI analyses with the first operational use of ECRs at dam sites in North-Rhie-Westphalia (NRW), Germany. Over a period of more than two years, ECRs were observed under real-world conditions using Sentinel-1 data. Compared to traditional passive reflectors, ECRs offer improved signal stability and a compact design, making them particularly suitable for confined or sensitive dam environments. The analysis of displacement time series confirms the suitability of ECRs for long-term deformation monitoring in complex dam settings. Intercomparison of two PSI time series demonstrated high internal consistency (correlation > 0.9, RMSE < 1 mm), while validation against in situ measurements confirmed millimeter-level agreement with **RMSE values between 2 and 5 mm** and correlations up to 0.7. In addition, a dedicated web-based platform was developed to provide processed ECR-based PSI results to dam operators, offering interactive visualizations, time-series access, and standardized downloads. This integration of advanced interferometric synthetic aperture radar (InSAR) methods, innovative hardware, and user-oriented service delivery marks a significant step toward operational dam monitoring using satellite remote sensing. 
+###### What are the main findings?
+
+   - The long-term analysis of Sentinel-1 backscatter demonstrates stable signal behavior of all installed electronic corner reflectors (ECRs) **over more than 2.5 years (typical Amplitude Dispersion Index ≤ 0.4)**, confirming their suitability as highly coherent radar targets for Persistent Scatterer Interferometry (PSI).
+   - PSI analyses based on the ECR installations yielded millimeter-level deformation estimates that agree with in situ plumb and trigonometric measurements, with typical Root Mean Square Error **(RMSE) values of 2 to 5 mm and correlations up to r = 0.7**, confirming the reliability of ECR-based PSI under real-world operational conditions.
+
+###### What are the implications of the main findings?
+
+   - ECRs enable PSI analyses at dams where conventional passive reflectors cannot be installed, providing **comparable signal stability but requiring higher operational maintenance**.
+   - The developed operational PSI service integrates ECR-based PSI results and ground-motion products into **an accessible web platform**, supporting dam operators with interactive time-series visualization, standardized downloads, and practical decision-making tools for infrastructure surveillance.
+    
 
 <p align="center" width="100%">
     <img src="../../imgs/API.jpg" width="800" alt="API"> 
